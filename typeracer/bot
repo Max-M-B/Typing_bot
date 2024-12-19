@@ -25,7 +25,9 @@ def get_text_to_type(driver):
         print("this is the text: ", text)
     return text
 
-driver = webdriver.Chrome()
+options = webdriver.ChromeOptions()
+options.page_load_strategy = 'normal'
+driver = webdriver.Chrome(options=options)
 driver.get('https://play.typeracer.com/')
 
 def main():
