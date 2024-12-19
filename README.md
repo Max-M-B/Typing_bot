@@ -1,0 +1,1 @@
+I don't know what to include in a readme file, so I'll just explain the project. I want to learn python by working on a project. I like typing and watched a youtube video about creating a typing bot so I thought that I would try making one too._
