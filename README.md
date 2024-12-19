@@ -6,4 +6,4 @@ How to use the nitrotype and typeracer bot:
 * press "ctrl+alt+h" when the race starts
 * sit back and relax as the bot types at world-class speeds
 
-Be careful when you've finished the typing test, because the bot will keep typing on monkeytype and 10fastfingers, even when you close the webpage.
+Be careful when you've finished the typing test, because the bot will keep typing if you used monkeytype or 10fastfingers, even when you close the webpage.
